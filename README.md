@@ -1,5 +1,32 @@
-# 💫 About Me:
-# Hi there, I'm Sonam Yadav 👋<br><br>## About Me<br><br>I'm currently learning **Frontend Development**. I'm passionate about creating interactive and visually appealing websites that provide a great user experience.<br><br>- 🌱 I’m currently working on improving my skills in HTML, CSS, and JavaScript.<br>- 👯 I’m looking to collaborate on web development projects and contribute to open-source communities.<br>- 🤔 I’m looking for help with **React** and **Vue.js** frameworks.<br>- 📚 I’m currently learning **Frontend Development** and exploring more about UI/UX design.<br>- 💬 Ask me about my journey into tech, or anything related to **Data Science** and **Machine Learning**.<br>- ⚡ Fun fact: I love solving problems and building things from scratch!<br><br><br><br>## Technologies & Tools<br><br>- **Frontend Development**: HTML, CSS, JavaScript, React, Vue.js<br>- **Version Control**: Git, GitHub<br>- **Data Science**: Python, R, TensorFlow, Keras<br>- **Other Tools**: Tableau, Power BI, Docker<br><br><br><br><br><br>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or discuss tech.<br>
+💫 About Me:
+Hi there, I'm Sonam Yadav 👋
+
+## About Me
+
+I'm currently learning Frontend Development. I'm passionate about creating interactive and visually appealing websites that provide a great user experience.
+
+- 🌱 I’m currently working on improving my skills in HTML, CSS, and JavaScript.
+- 👯 I’m looking to collaborate on web development projects and contribute to open-source communities.
+- 🤔 I’m looking for help with React and Vue.js frameworks.
+- 📚 I’m currently learning Frontend Development and exploring more about UI/UX design.
+- 💬 Ask me about my journey into tech, or anything related to Data Science and Machine Learning.
+- ⚡ Fun fact: I love solving problems and building things from scratch!
+
+
+
+## Technologies & Tools
+
+- Frontend Development: HTML, CSS, JavaScript, React, Vue.js
+- Version Control: Git, GitHub
+- Data Science: Python, R, TensorFlow, Keras
+- Other Tools: Tableau, Power BI, Docker
+
+
+
+
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or discuss tech.
+.<br>
 
 
 # 💻 Tech Stack:
